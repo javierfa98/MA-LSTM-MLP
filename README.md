@@ -171,13 +171,13 @@ J. Fañanás-Anaya, G. López-Nicolás, C. Sagüés and S. Llorente, “Food Coo
 
 ```bibtex
 @article{training-algorithm-2024,
-    author = {Fañanás-Anaya, Javier and López-Nicolás, Gonzalo and Sagüés, Carlos and Llorente, Sergio},
-	title = {Food Cooking Process Modeling With Neural Networks},
-    journal = {IEEE Access},
-    year = {2024},
-	volume = {12},
-    pages = {175866--175881},
-	doi = {10.1109/ACCESS.2024.3504724},
+  author    = {Fañanás-Anaya, Javier and López-Nicolás, Gonzalo and Sagüés, Carlos and Llorente, Sergio},
+  title     = {Food Cooking Process Modeling With Neural Networks},
+  journal   = {IEEE Access},
+  year      = {2024},
+  volume    = {12},
+  pages     = {175866--175881},
+  doi       = {10.1109/ACCESS.2024.3504724},
 }
 ```
 
