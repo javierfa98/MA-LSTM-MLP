@@ -150,7 +150,7 @@ The pre-trained model is a fast example, feel free to try different hyperparamet
 
 This repository is part of a paper for the journal *Neural Computing and Applications*. Please, cite as:  
 
-J. Fañanás-Anaya, G. López-Nicolás and C. Sagüés, “Dynamical system simulation with attention and recurrent neural networks,” *Neural Comput & Applic*, Dec. 2024, doi: [10.1007/s00521-024-10732-y](https://doi.org/10.1007/s00521-024-10732-y)
+J. Fañanás-Anaya, G. López-Nicolás and C. Sagüés, “Dynamical system simulation with attention and recurrent neural networks”, *Neural Comput & Applic*, Dec. 2024, doi: [10.1007/s00521-024-10732-y](https://doi.org/10.1007/s00521-024-10732-y)
 
 ```bibtex
 @article{MA-LSTM-MLP-2024,
@@ -167,7 +167,7 @@ J. Fañanás-Anaya, G. López-Nicolás and C. Sagüés, “Dynamical system simu
 
 The training algorithm used in this work is part of a paper for the journal *IEEE Access*. If you use this training algorithm, please cite it as:
 
-J. Fañanás-Anaya, G. López-Nicolás, C. Sagüés and S. Llorente, “Food Cooking Process Modeling With Neural Networks,” *IEEE Access*, vol. 12, pp. 175866–175881, 2024, doi: [10.1109/ACCESS.2024.3504724](https://doi.org/10.1109/ACCESS.2024.3504724)
+J. Fañanás-Anaya, G. López-Nicolás, C. Sagüés and S. Llorente, “Food Cooking Process Modeling With Neural Networks”, *IEEE Access*, vol. 12, pp. 175866–175881, 2024, doi: [10.1109/ACCESS.2024.3504724](https://doi.org/10.1109/ACCESS.2024.3504724)
 
 ```bibtex
 @article{training-algorithm-2024,
