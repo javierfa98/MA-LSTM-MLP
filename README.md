@@ -150,15 +150,16 @@ The pre-trained model is a fast example, feel free to try different hyperparamet
 
 This repository is part of a paper for the journal *Neural Computing and Applications*. Please, cite as:  
 
-J. Fañanás-Anaya, G. López-Nicolás and C. Sagüés, “Dynamical system simulation with attention and recurrent neural networks”, *Neural Comput & Applic*, Dec. 2024, doi: [10.1007/s00521-024-10732-y](https://doi.org/10.1007/s00521-024-10732-y)
+J. Fañanás-Anaya, G. López-Nicolás and C. Sagüés, “Dynamical system simulation with attention and recurrent neural networks”, *Neural Comput & Applic*, vol. 37, pp. 2711–2731, 2025, doi: [10.1007/s00521-024-10732-y](https://doi.org/10.1007/s00521-024-10732-y)
 
 ```bibtex
 @article{MA-LSTM-MLP-2024,
   author    = {Fañanás-Anaya, Javier and López-Nicolás, Gonzalo and Sagüés, Carlos},
   title     = {Dynamical system simulation with attention and recurrent neural networks},
   journal   = {Neural Computing and Applications},
-  year      = {2024},
-  month     = {Dec},
+  year      = {2025},
+  volume    = {37},
+  pages     = {2711--2731},
   doi       = {10.1007/s00521-024-10732-y}
 }
 ```
